@@ -60,7 +60,7 @@ llm:
     and key experimental findings. Be objective and specific; avoid marketing language.
     Preserve any provided links, but do NOT repeat them in the paragraph.
   system_prompt_zh: |
-    你是资深论文阅读助手。基于给定的论文元信息与摘要，用中文写「一段」简洁的总结，
+    你是资深论文阅读助手。基于给定的论文元信息与摘要，用中文写「一段」简洁通俗的总结，
     包含研究动机、核心方法与关键实验结果。保持客观、术语准确；避免营销式表述。
     如有链接请保留，但不要在总结里重复链接。
 
